@@ -1,0 +1,94 @@
+body{
+	background-color: rgb(5, 5, 5); 
+	color:#555555;
+	font: normal 16px Arial, Helvetica, sans-serif;
+
+	line-height: 1.6em;
+	margin: 0;
+}
+
+h1{
+    /*color:rgb(57, 59, 192);*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f2f2f2; background-color:none;
+    font-size: 75px; line-height: 74px; 
+    text-align: right;
+    font-weight: 700;  
+    float: right ; padding: 180px;
+    margin: 0px 0px 24px ; 
+}
+
+
+/* nav bar template by W3schools.com*/
+
+.topnav {
+    overflow: hidden;
+    background-color:none;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #65847E;
+    color: white;
+  }
+
+  .image1
+  {
+    float: left;
+    width: 800px;
+    padding: 0;
+  }
+
+  .speech{
+    font-size: 20px;
+    text-align: center;
+    margin: 10% 5% 5% 10% ;
+    
+  }
+
+
+#aboutMe{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f2f2f2; background-color:none;
+  font-size: 25px; line-height: 74px; 
+  text-align: right;
+  font-weight: 700;  
+  float: right ; padding: 180px;
+  margin: 0px 0px 24px ; 
+  
+}
+
+#skills{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f2f2f2; background-color:none;
+  font-size: 25px; line-height: 74px; 
+  text-align: right;
+  font-weight: 700;  
+  float: right ; padding: 50px;
+  margin: 0px 0px 24px ; 
+  
+}
+
+#contact{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f2f2f2; background-color:none;
+  font-size: 50px; line-height: 74px; 
+  text-align: right;
+  font-weight: 700;  
+  float: right ; padding: 50px;
+  margin: 0px 0px 10px ; 
+  
+}
